@@ -1,0 +1,463 @@
+{
+  "items": [
+    {
+      "description": "Contributions are welcome. Please see the issue which lists the things which are planned to be included in this repo. If you wish to contribute within these boundaries, feel free to send a PR. If you have suggestions for new sections to be included, please raise an issue and discuss before sending a PR.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Zero-Shot Object Classification"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "\"Learning Graph Embeddings for Compositional Zero-shot Learning\" [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-29T10:28:28Z",
+            "owner": "ExplainableML",
+            "repo": "czsl",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zongyan Han, Zhenyong Fu, Shuo Chen and Jian Yang \"Contrastive Embedding for Generalized Zero-Shot Learning\" [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-13T12:06:05Z",
+            "owner": "Hanzy1996",
+            "repo": "CE-GZSL",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yang Liu, Lei Zhou, Xiao Bai, Yifei Huang, Lin Gu, Jun Zhou, Tatsuya Harada. \"Goal-Oriented Gaze Estimation for Zero-Shot Learning\" [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-06T04:07:50Z",
+            "owner": "osierboy",
+            "repo": "GEM-ZSL",
+            "stars": 60
+          }
+        }
+      ],
+      "title": "CVPR 2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LFGAA+SA: Yang Liu, Jishun Guo, Deng Cai, Xiaofei He. \"Attribute Attention for Semantic Disambiguation in Zero-Shot Learning.\" ICCV (2019). [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-05T11:09:24Z",
+            "owner": "ZJULearning",
+            "repo": "AttentionZSL",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CIZSL: Mohamed Elhoseiny, Mohamed Elfeki. \"Creativity Inspired Zero-Shot Learning.\" ICCV (2019). [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-08T20:12:44Z",
+            "owner": "mhelhoseiny",
+            "repo": "CIZSL",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yizhe Zhu1, Jianwen Xie, Bingchen Liu, Ahmed Elgammal. \"Learning Feature-to-Feature Translator by Alternating Back-Propagation for Generative Zero-Shot Learning.\" ICCV (2019). [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-11T15:47:00Z",
+            "owner": "EthanZhu90",
+            "repo": "ZSL_ABP",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "ICCV 2019"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DGP: Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing. \"Rethinking Knowledge Graph Propagation for Zero-Shot Learning.\" CVPR (2019). [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-22T08:53:59Z",
+            "owner": "yinboc",
+            "repo": "DGP",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CADA-VAE: Edgar Schönfeld, Sayna Ebrahimi, Samarth Sinha, Trevor Darrell, Zeynep Akata. \"Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders.\" CVPR (2019). [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-06T21:26:21Z",
+            "owner": "edgarschnfld",
+            "repo": "CADA-VAE-PyTorch",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LisGAN: Jingjing Li, Mengmeng Jin, Ke Lu, Zhengming Ding, Lei Zhu, Zi Huang. \"Leveraging the Invariant Side of Generative Zero-Shot Learning.\" CVPR (2019). [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-22T05:56:57Z",
+            "owner": "lijin118",
+            "repo": "LisGAN",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AREN: Guo-Sen Xie, Li Liu, Xiaobo Jin, Fan Zhu, Zheng Zhang, Jie Qin, Yazhou Yao, Ling Shao. \"Attentive Region Embedding Network for Zero-shot Learning.\" CVPR (2019). [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-04T11:03:56Z",
+            "owner": "gsx0",
+            "repo": "Attentive-Region-Embedding-Network-for-Zero-shot-Learning",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GDAN: He Huang, Changhu Wang, Philip S. Yu, Chang-Dong Wang. \"Generative Dual Adversarial Network for Generalized Zero-shot Learning.\" CVPR (2019). [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-08T15:59:32Z",
+            "owner": "stevehuanghe",
+            "repo": "GDAN",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeML: Binghui Chen, Weihong Deng. \"Hybrid-Attention based Decoupled Metric Learning for Zero-Shot Image Retrieval.\" CVPR (2019). [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-07-31T02:04:28Z",
+            "owner": "chenbinghui1",
+            "repo": "Hybrid-Attention-based-Decoupled-Metric-Learning",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tristan Hascoet, Yasuo Ariki, Tetsuya Takiguchi. \"On Zero-Shot Learning of generic objects.\" CVPR (2019). [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-10-19T23:39:25Z",
+            "owner": "TristHas",
+            "repo": "GOZ",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "CVPR 2019"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GCN: Xiaolong Wang, Yufei Ye, Abhinav Gupta. \"Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs.\" CVPR (2018). [pdf",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-23T16:17:08Z",
+            "owner": "JudyYe",
+            "repo": "zero-shot-gcn",
+            "stars": 914
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SP-AEN: Long Chen, Hanwang Zhang, Jun Xiao, Wei Liu, Shih-Fu Chang. \"Zero-Shot Visual Recognition Using Semantics-Preserving Adversarial Embedding Networks.\" CVPR (2018). [pdf",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-10T14:08:37Z",
+            "owner": "zjuchenlong",
+            "repo": "sp-aen.cvpr18",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "CVPR 2018"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PVE: Soravit Changpinyo, Wei-Lun Chao, Fei Sha. \"Predicting Visual Exemplars of Unseen Classes for Zero-Shot Learning.\" ICCV (2017). [pdf",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2019-03-02T19:21:44Z",
+            "owner": "pujols",
+            "repo": "Zero-shot-learning-journal",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A2C: Berkan Demirel, Ramazan Gokberk Cinbis, Nazli Ikizler-Cinbis. \"Attributes2Classname: A Discriminative Model for Attribute-Based Unsupervised Zero-Shot Learning.\" ICCV (2017). [pdf",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-03-10T08:58:26Z",
+            "owner": "berkandemirel",
+            "repo": "attributes2classname",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "ICCV 2017"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DEM: Li Zhang, Tao Xiang, Shaogang Gong. \"Learning a Deep Embedding Model for Zero-Shot Learning.\" CVPR (2017). [pdf",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-20T21:39:43Z",
+            "owner": "lzrobots",
+            "repo": "DeepEmbeddingModel_ZSL",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAE: Elyor Kodirov, Tao Xiang, Shaogang Gong. \"Semantic Autoencoder for Zero-Shot Learning.\" CVPR (2017). [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2018-11-04T20:19:02Z",
+            "owner": "Elyorcv",
+            "repo": "SAE",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep-SCoRe: Pedro Morgado, Nuno Vasconcelos.\"Semantically Consistent Regularization for Zero-Shot Recognition.\" CVPR (2017). [pdf",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-01-04T19:47:02Z",
+            "owner": "pedro-morgado",
+            "repo": "score-zeroshot",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GUB: Yongqin Xian, Bernt Schiele, Zeynep Akata. \"Zero-Shot learning - The Good, the Bad and the Ugly.\" CVPR (2017). [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-01-04T19:47:02Z",
+            "owner": "pedro-morgado",
+            "repo": "score-zeroshot",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nour Karessli, Zeynep Akata, Bernt Schiele, Andreas Bulling. \"Gaze Embeddings for Zero-Shot Image Classification.\" CVPR (2017). [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-10-28T14:50:36Z",
+            "owner": "Noura-kr",
+            "repo": "CVPR17",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "CVPR 2017"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TMV-BLP: Yanwei Fu, Timothy M. Hospedales, Tao Xiang, Zhenyong Fu, Shaogang Gong. \"Transductive Multi-view Embedding for Zero-Shot Recognition and Annotation\" ECCV (2014).[pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2016-08-25T00:54:12Z",
+            "owner": "yanweifu",
+            "repo": "embedding_zero-shot-learning",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stanislaw Antol, Larry Zitnick, Devi Parikh. \"Zero-Shot Learning via Visual Abstraction.\" ECCV (2014). [pdf]",
+          "description": "[code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2014-09-06T22:42:43Z",
+            "owner": "StanislawAntol",
+            "repo": "zsl_via_visual_abstraction",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "ECCV 2014"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing \"Rethinking Knowledge Graph Propagation for Zero-Shot Learning\" arXiv (2018). [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-22T08:53:59Z",
+            "owner": "yinboc",
+            "repo": "DGP",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EsZSL: Bernardino Romera-Paredes, Philip H. S. Torr. \"An embarrassingly simple approach to zero-shot learning.\" ICML (2015). [pdf]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-03-16T23:45:12Z",
+            "owner": "MLWave",
+            "repo": "extremely-simple-one-shot-learning",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZSGD: Tiancheng Zhao, Maxine Eskenazi. \"Zero-Shot Dialog Generation with Cross-Domain Latent Actions\" SIGDIAL (2018). [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-08T18:29:42Z",
+            "owner": "snakeztc",
+            "repo": "NeuralDialog-ZSDG",
+            "stars": 132
+          }
+        }
+      ],
+      "title": "Other Papers"
+    },
+    {
+      "description": "This repository contains a folder which has a Jupyter Notebook step-by-step code to \"An embarrassingly simple approach to zero-shot learning.\" ICML (2015). This can be used as an introductory code to obtain the basic understanding of Zero-shot Learning.",
+      "items": [],
+      "title": "Starter Code"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:39:14.802Z",
+    "original_repository": "sbharadwajj/awesome-zero-shot-learning",
+    "original_repository_sha": "31a736b732392c4f34309a3d15bb3fb4c84e74d6",
+    "enhanced_repository": "enhansome/enhansome-zero-shot-learning",
+    "enhanced_repository_description": null,
+    "title": "Awesome Zero-Shot Learning with stars"
+  }
+}
