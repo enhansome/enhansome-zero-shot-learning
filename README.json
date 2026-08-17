@@ -29,7 +29,7 @@
             "last_commit": "2025-10-29T10:28:28Z",
             "owner": "ExplainableML",
             "repo": "czsl",
-            "stars": 128
+            "stars": 129
           }
         },
         {
@@ -453,7 +453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:38:59.186Z",
+    "last_updated": "2026-08-17T23:41:39.620Z",
     "original_repository": "sbharadwajj/awesome-zero-shot-learning",
     "original_repository_sha": "31a736b732392c4f34309a3d15bb3fb4c84e74d6",
     "enhanced_repository": "enhansome/enhansome-zero-shot-learning",

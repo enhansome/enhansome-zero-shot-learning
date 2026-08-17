@@ -1,6 +1,6 @@
 # Awesome Zero-Shot Learning with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,566 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,985 | 🐛 102 | 📅 2026-06-30
 
 A curated list of resources including papers, comparitive results on standard datasets and relevant links pertaining to zero-shot learning.
 
@@ -21,7 +21,7 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 
 #### CVPR 2021
 
-* "Learning Graph Embeddings for Compositional Zero-shot Learning" [\[pdf\]](https://arxiv.org/pdf/2102.01987.pdf) [\[code\]](https://github.com/ExplainableML/czsl) ⭐ 128 | 🐛 7 | 🌐 Python | 📅 2025-10-29
+* "Learning Graph Embeddings for Compositional Zero-shot Learning" [\[pdf\]](https://arxiv.org/pdf/2102.01987.pdf) [\[code\]](https://github.com/ExplainableML/czsl) ⭐ 129 | 🐛 7 | 🌐 Python | 📅 2025-10-29
 * Zongyan Han, Zhenyong Fu, Shuo Chen and Jian Yang "Contrastive Embedding for Generalized Zero-Shot Learning" [\[pdf\]](https://arxiv.org/pdf/2103.16173.pdf) [\[code\]](https://github.com/Hanzy1996/CE-GZSL) ⭐ 106 | 🐛 1 | 🌐 Python | 📅 2021-07-13
 * Yang Liu, Lei Zhou, Xiao Bai, Yifei Huang, Lin Gu, Jun Zhou, Tatsuya Harada. "Goal-Oriented Gaze Estimation for Zero-Shot Learning" [\[pdf\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Goal-Oriented_Gaze_Estimation_for_Zero-Shot_Learning_CVPR_2021_paper.pdf) [\[code\]](https://github.com/osierboy/GEM-ZSL) ⭐ 60 | 🐛 12 | 🌐 Python | 📅 2021-07-06
 * Liu Bo, Qiulei Dong and Zhanyi Hu. "Hardness Sampling for Self-Training Based Transductive Zero-Shot Learning" [\[pdf\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Bo_Hardness_Sampling_for_Self-Training_Based_Transductive_Zero-Shot_Learning_CVPR_2021_paper.pdf)
@@ -227,4 +227,4 @@ This can be used as an introductory code to obtain the basic understanding of Ze
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
