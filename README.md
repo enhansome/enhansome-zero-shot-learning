@@ -1,6 +1,6 @@
 # Awesome Zero-Shot Learning with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,302 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21
 
 A curated list of resources including papers, comparitive results on standard datasets and relevant links pertaining to zero-shot learning.
 
@@ -83,9 +83,9 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 
 #### ECCV 2018
 
+* **MC-ZSL:** Rafael Felix, Vijay Kumar B. G., Ian Reid, Gustavo Carneiro. "Multi-modal Cycle-consistent Generalized Zero-Shot Learning." ECCV (2018). \[[pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/RAFAEL_FELIX_Multi-modal_Cycle-consistent_Generalized_ECCV_2018_paper.pdf)] [\[code\]](https://github.com/rfelixmg/frwgan-eccv18) ⭐ 58 | 🐛 2 | 🌐 Python | 📅 2019-03-07
 * **SZSL:** Jie Song, Chengchao Shen, Jie Lei, An-Xiang Zeng, Kairi Ou, Dacheng Tao, Mingli Song. "Selective Zero-Shot Classification with Augmented Attributes." ECCV (2018). \[[pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jie_Song_Selective_Zero-Shot_Classification_ECCV_2018_paper.pdf)]
 * **LCP-SA:** Huajie Jiang, Ruiping Wang, Shiguang Shan, Xilin Chen. "Learning Class Prototypes via Structure Alignment for Zero-Shot Recognition." ECCV (2018). \[[pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Huajie_Jiang_Learning_Class_Prototypes_ECCV_2018_paper.pdf)]
-* **MC-ZSL:** Rafael Felix, Vijay Kumar B. G., Ian Reid, Gustavo Carneiro. "Multi-modal Cycle-consistent Generalized Zero-Shot Learning." ECCV (2018). \[[pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/RAFAEL_FELIX_Multi-modal_Cycle-consistent_Generalized_ECCV_2018_paper.pdf)] [\[code\]](https://github.com/rfelixmg/frwgan-eccv18) ⭐ 58 | 🐛 2 | 🌐 Python | 📅 2019-03-07
 
 #### CVPR 2018
 
@@ -135,10 +135,10 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 
 #### CVPR 2016
 
+* **SYNC:** Soravit Changpinyo, Wei-Lun Chao, Boqing Gong, Fei Sha. "Synthesized Classifiers for Zero-Shot Learning." CVPR (2016). \[[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Changpinyo_Synthesized_Classifiers_for_CVPR_2016_paper.pdf)]\[[code](https://github.com/pujols/zero-shot-learning) ⭐ 66 | 🐛 1 | 📅 2018-10-22]
 * **MC-ZSL:** Zeynep Akata, Mateusz Malinowski, Mario Fritz, Bernt Schiele. "Multi-Cue Zero-Shot Learning With Strong Supervision." CVPR (2016). \[[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Akata_Multi-Cue_Zero-Shot_Learning_CVPR_2016_paper.pdf)] [\[code\]](https://www.mpi-inf.mpg.de/index.php?id=2935)
 * **LATEM:** Yongqin Xian, Zeynep Akata, Gaurav Sharma, Quynh Nguyen, Matthias Hein, Bernt Schiele. "Latent Embeddings for Zero-Shot Classification." CVPR (2016). \[[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Xian_Latent_Embeddings_for_CVPR_2016_paper.pdf)]\[[code](http://datasets.d2.mpi-inf.mpg.de/yxian16cvpr/latEm.zip)]
 * **LIM:** Ruizhi Qiao, Lingqiao Liu, Chunhua Shen, Anton van den Hengel. "Less Is More: Zero-Shot Learning From Online Textual Documents With Noise Suppression." CVPR (2016). \[[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Qiao_Less_Is_More_CVPR_2016_paper.pdf)]
-* **SYNC:** Soravit Changpinyo, Wei-Lun Chao, Boqing Gong, Fei Sha. "Synthesized Classifiers for Zero-Shot Learning." CVPR (2016). \[[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Changpinyo_Synthesized_Classifiers_for_CVPR_2016_paper.pdf)]\[[code](https://github.com/pujols/zero-shot-learning) ⭐ 66 | 🐛 1 | 📅 2018-10-22]
 * **RML:** Ziad Al-Halah, Makarand Tapaswi, Rainer Stiefelhagen. "Recovering the Missing Link: Predicting Class-Attribute Associations for Unsupervised Zero-Shot Learning." CVPR (2016). \[[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Al-Halah_Recovering_the_Missing_CVPR_2016_paper.pdf)]
 * **SLE:** Ziming Zhang, Venkatesh Saligrama. "Zero-Shot Learning via Joint Latent Similarity Embedding." CVPR (2016). \[[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Zero-Shot_Learning_via_CVPR_2016_paper.pdf)] \[[code](https://drive.google.com/file/d/1RimUgUlf2tfpntzlxdlYaAvm34HX0fUb/view?usp=sharing)]
 
@@ -155,8 +155,8 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 
 #### TPAMI 2016, 2015, 2013
 
-* **ALE:** Zeynep Akata, Florent Perronnin, Zaid Harchaoui, and Cordelia Schmid. "Label-Embedding for Image Classification." TPAMI (2016). [\[pdf\]](https://arxiv.org/pdf/1503.08677.pdf)
 * **TMV:** Yanwei Fu, Timothy M. Hospedales, Tao Xiang, Shaogang Gong. "Transductive Multi-view Zero-Shot Learning." TPAMI (2015) [\[pdf\]](https://arxiv.org/pdf/1501.04560.pdf) [\[code\]](https://github.com/yanweifu/embedding_zero-shot-learning) ⭐ 20 | 🐛 0 | 🌐 Matlab | 📅 2016-08-25
+* **ALE:** Zeynep Akata, Florent Perronnin, Zaid Harchaoui, and Cordelia Schmid. "Label-Embedding for Image Classification." TPAMI (2016). [\[pdf\]](https://arxiv.org/pdf/1503.08677.pdf)
 * **DAP:** Christoph H. Lampert, Hannes Nickisch and Stefan Harmeling. "Attribute-Based Classification for Zero-Shot
   Visual Object Categorization." TPAMI (2013) [\[pdf\]](http://pub.ist.ac.at/~chl/papers/lampert-pami2013.pdf)
 
@@ -174,8 +174,8 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 
 #### NIPS 2014, 2013, 2009
 
-* Dinesh Jayram, Kristen Grauman."Zero-Shot Recognition with Unreliable Attributes" NIPS (2014) [\[pdf\]](https://papers.nips.cc/paper/5290-zero-shot-recognition-with-unreliable-attributes.pdf)
 * **CMT:** Richard Socher, Milind Ganjoo, Christopher D. Manning, Andrew Y. Ng. "Zero-Shot Learning Through Cross-Modal Transfer" NIPS (2013) [\[pdf\]](https://papers.nips.cc/paper/5027-zero-shot-learning-through-cross-modal-transfer.pdf)  [\[code\]](https://github.com/mganjoo/zslearning) ⚠️ Archived
+* Dinesh Jayram, Kristen Grauman."Zero-Shot Recognition with Unreliable Attributes" NIPS (2014) [\[pdf\]](https://papers.nips.cc/paper/5290-zero-shot-recognition-with-unreliable-attributes.pdf)
 * **DeViSE:** Andrea Frome, Greg S. Corrado, Jonathon Shlens, Samy Bengio, Jeffrey Dean, Marc’Aurelio Ranzato, Tomas Mikolov."DeViSE: A Deep Visual-Semantic Embedding Model" NIPS (2013) [\[pdf\]](https://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model.pdf)
 * Mark Palatucci, Dean Pomerleau, Geoffrey Hinton, Tom M. Mitchell. "Zero-Shot Learning with Semantic Output Codes" NIPS (2009) [\[pdf\]](https://papers.nips.cc/paper/3650-zero-shot-learning-with-semantic-output-codes.pdf)
 
@@ -227,4 +227,4 @@ This can be used as an introductory code to obtain the basic understanding of Ze
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

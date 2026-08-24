@@ -61,6 +61,50 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "TF-vaegan: Sanath Narayan* , Akshita Gupta* , Fahad Shahbaz Khan, Cees G. M. Snoek, Ling Shao. \"Latent Embedding Feedback and Discriminative Features for Zero-Shot Classification.\" ECCV (2020). [pdf]",
+                  "description": "[code].",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 288676729,
+                    "language": "Python",
+                    "last_commit": "2021-08-18T14:12:00Z",
+                    "owner": "akshitac8",
+                    "repo": "tfvaegan",
+                    "stars": 131
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ECCV 2020"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "VSC: Ziyu Wan, Dongdong Chen, Yan Li, Xingguang Yan, Junge Zhang, Yizhou Yu, Jing Liao. \"Transductive Zero-Shot Learning with Visual Structure Constraint.\" NeurIPS (2019). [pdf]",
+                  "description": "[code].",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 212274173,
+                    "language": "Python",
+                    "last_commit": "2019-10-26T09:20:09Z",
+                    "owner": "raywzy",
+                    "repo": "VSC",
+                    "stars": 43
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "NeurIPS 2019"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "LFGAA+SA: Yang Liu, Jishun Guo, Deng Cai, Xiaofei He. \"Attribute Attention for Semantic Disambiguation in Zero-Shot Learning.\" ICCV (2019). [pdf]",
                   "description": "[code]",
                   "children": [],
@@ -225,6 +269,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "MC-ZSL: Rafael Felix, Vijay Kumar B. G., Ian Reid, Gustavo Carneiro. \"Multi-modal Cycle-consistent Generalized Zero-Shot Learning.\" ECCV (2018). [pdf",
+                  "description": "] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 141297250,
+                    "language": "Python",
+                    "last_commit": "2019-03-07T00:52:41Z",
+                    "owner": "rafafelixphd",
+                    "repo": "frwgan-eccv18",
+                    "stars": 58
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ECCV 2018"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "GCN: Xiaolong Wang, Yufei Ye, Abhinav Gupta. \"Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs.\" CVPR (2018). [pdf",
                   "description": "] [code]",
                   "children": [],
@@ -381,6 +447,72 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "SYNC: Soravit Changpinyo, Wei-Lun Chao, Boqing Gong, Fei Sha. \"Synthesized Classifiers for Zero-Shot Learning.\" CVPR (2016). [pdf",
+                  "description": "][code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 60957758,
+                    "language": null,
+                    "last_commit": "2018-10-22T03:12:17Z",
+                    "owner": "pujols",
+                    "repo": "zero-shot-learning",
+                    "stars": 66
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "CVPR 2016"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TMV: Yanwei Fu, Timothy M. Hospedales, Tao Xiang, Shaogang Gong. \"Transductive Multi-view Zero-Shot Learning.\" TPAMI (2015) [pdf]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 30670343,
+                    "language": "Matlab",
+                    "last_commit": "2016-08-25T00:54:12Z",
+                    "owner": "yanweifu",
+                    "repo": "embedding_zero-shot-learning",
+                    "stars": 20
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "TPAMI 2016, 2015, 2013"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CMT: Richard Socher, Milind Ganjoo, Christopher D. Manning, Andrew Y. Ng. \"Zero-Shot Learning Through Cross-Modal Transfer\" NIPS (2013) [pdf]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 6733809,
+                    "language": "Matlab",
+                    "last_commit": "2014-04-25T21:50:31Z",
+                    "owner": "mganjoo",
+                    "repo": "zslearning",
+                    "stars": 54
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "NIPS 2014, 2013, 2009"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "TMV-BLP: Yanwei Fu, Timothy M. Hospedales, Tao Xiang, Zhenyong Fu, Shaogang Gong. \"Transductive Multi-view Embedding for Zero-Shot Recognition and Annotation\" ECCV (2014).[pdf]",
                   "description": "[code]",
                   "children": [],
@@ -470,13 +602,35 @@
           "description": null,
           "node_type": "group",
           "title": "Papers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LAD: Large-scale Attribute Dataset. Categories:230. [link]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132123154,
+                "language": null,
+                "last_commit": "2019-10-19T21:24:05Z",
+                "owner": "PatrickZH",
+                "repo": "A-Large-scale-Attribute-Dataset-for-Zero-shot-Learning",
+                "stars": 41
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Datasets"
         }
       ],
       "title": "Zero-Shot Object Classification"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:40:04.917Z",
+    "last_updated": "2026-08-24T14:14:36.335Z",
     "original_repository": "sbharadwajj/awesome-zero-shot-learning",
     "original_repository_id": 152626520,
     "original_repository_sha": "31a736b732392c4f34309a3d15bb3fb4c84e74d6",
