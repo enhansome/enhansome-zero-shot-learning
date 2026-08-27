@@ -630,9 +630,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:33:20.028Z",
-    "original_repository": "sbharadwajj/awesome-zero-shot-learning",
-    "original_repository_id": 152626520,
+    "last_updated": "2026-08-27T12:15:52.840Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 152626520,
+      "language": null,
+      "last_commit": "2021-07-28T08:17:13Z",
+      "owner": "sbharadwajj",
+      "repo": "awesome-zero-shot-learning",
+      "stars": 935
+    },
     "original_repository_sha": "31a736b732392c4f34309a3d15bb3fb4c84e74d6",
     "enhanced_repository": "enhansome/enhansome-zero-shot-learning",
     "enhanced_repository_description": null,
