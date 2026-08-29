@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch CZSL framework containing GQA, the open-world setting, and the CGE and CompCos methods.",
+                    "homepage": null,
                     "id": 349963776,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-10-29T10:28:28Z",
+                    "open_issues": 7,
                     "owner": "ExplainableML",
                     "repo": "czsl",
-                    "stars": 129
+                    "stars": 129,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 },
@@ -30,12 +35,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Codes for the CVPR 2021 paper: Contrastive Embedding for Generalized Zero-Shot Learning",
+                    "homepage": null,
                     "id": 346730120,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-07-13T12:06:05Z",
+                    "open_issues": 1,
                     "owner": "Hanzy1996",
                     "repo": "CE-GZSL",
-                    "stars": 107
+                    "stars": 107,
+                    "topics": [
+                      "zero-shot-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 },
@@ -46,12 +58,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 344326056,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-07-06T04:07:50Z",
+                    "open_issues": 12,
                     "owner": "osierboy",
                     "repo": "GEM-ZSL",
-                    "stars": 60
+                    "stars": 60,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 }
@@ -69,12 +86,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2020] Official Pytorch implementation for \"Latent Embedding Feedback and Discriminative Features for Zero-Shot Classification\". SOTA results for ZSL and GZSL",
+                    "homepage": null,
                     "id": 288676729,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-08-18T14:12:00Z",
+                    "open_issues": 1,
                     "owner": "akshitac8",
                     "repo": "tfvaegan",
-                    "stars": 131
+                    "stars": 131,
+                    "topics": [
+                      "action-recognition",
+                      "clswgan",
+                      "eccv-2020",
+                      "eccv2020",
+                      "f-vaegan",
+                      "feature-synthesis",
+                      "gan",
+                      "gzsl",
+                      "image-classification",
+                      "pytorch",
+                      "pytorch-gan",
+                      "pytorch-implementation",
+                      "zero-shot-learning",
+                      "zsl"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 }
@@ -92,12 +129,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Transductive Zero-Shot Learning with Visual Structure Constraint, in NeurIPS 2019",
+                    "homepage": null,
                     "id": 212274173,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-10-26T09:20:09Z",
+                    "open_issues": 1,
                     "owner": "raywzy",
                     "repo": "VSC",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 }
@@ -115,12 +157,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Codes for Paper \"Attribute Attention for Semantic Disambiguation in Zero-Shot Learning\"",
+                    "homepage": null,
                     "id": 219724866,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-11-05T11:09:24Z",
+                    "open_issues": 1,
                     "owner": "ZJULearning",
                     "repo": "AttentionZSL",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 },
@@ -131,12 +178,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Creativity Inspired Zero-Shot Learning",
+                    "homepage": null,
                     "id": 202834950,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-03-08T20:12:44Z",
+                    "open_issues": 2,
                     "owner": "mhelhoseiny",
                     "repo": "CIZSL",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 },
@@ -147,12 +199,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper ICCV'19 \"Learning Feature-to-Feature Translator by Alternating Back-Propagation for Zero-Shot Learning\"",
+                    "homepage": null,
                     "id": 142715860,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-11-11T15:47:00Z",
+                    "open_issues": 3,
                     "owner": "EthanZhu90",
                     "repo": "ZSL_ABP",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 }
@@ -170,12 +227,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Rethinking Knowledge Graph Propagation for Zero-Shot Learning, in CVPR 2019",
+                    "homepage": null,
                     "id": 135530747,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-06-22T08:53:59Z",
+                    "open_issues": 1,
                     "owner": "yinboc",
                     "repo": "DGP",
-                    "stars": 321
+                    "stars": 321,
+                    "topics": [
+                      "knowledge-graph",
+                      "machine-learning",
+                      "pytorch",
+                      "zero-shot-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 },
@@ -186,12 +253,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of the paper \"Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders\" (CVPR 2019)",
+                    "homepage": null,
                     "id": 164482552,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-07-06T21:26:21Z",
+                    "open_issues": 8,
                     "owner": "edgarschnfld",
                     "repo": "CADA-VAE-PyTorch",
-                    "stars": 295
+                    "stars": 295,
+                    "topics": [
+                      "few-shot-learning",
+                      "generalized-zero-shot-learning",
+                      "vae",
+                      "variational-autoencoder",
+                      "zero-shot-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 },
@@ -202,12 +280,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LisGAN, Leveraging the Invariant Side of Generative Zero-Shot Learning, CVPR 2019",
+                    "homepage": null,
                     "id": 179601049,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-09-22T05:56:57Z",
+                    "open_issues": 7,
                     "owner": "lijin118",
                     "repo": "LisGAN",
-                    "stars": 75
+                    "stars": 75,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 },
@@ -218,12 +301,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Attentive Region Embedding Network for Zero-shot Learning (CVPR 2019)",
+                    "homepage": null,
                     "id": 184739347,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-07-04T11:03:56Z",
+                    "open_issues": 5,
                     "owner": "gsx0",
                     "repo": "Attentive-Region-Embedding-Network-for-Zero-shot-Learning",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 },
@@ -234,12 +322,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Generative Dual Adversarial Network for Generalized Zero-shot Learning",
+                    "homepage": null,
                     "id": 156092939,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-10-08T15:59:32Z",
+                    "open_issues": 4,
                     "owner": "stevehuanghe",
                     "repo": "GDAN",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 },
@@ -250,12 +343,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Caffe implementation of  CVPR2019 paper \"Hybrid-Attention based Decoupled Metric Learning for Zero-Shot Image Retrieval\"",
+                    "homepage": null,
                     "id": 179016808,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-07-31T02:04:28Z",
+                    "open_issues": 0,
                     "owner": "chenbinghui1",
                     "repo": "Hybrid-Attention-based-Decoupled-Metric-Learning",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": [
+                      "caffe",
+                      "cvpr2019",
+                      "image-retrieval",
+                      "zero-shot"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 },
@@ -266,12 +369,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Generic Object ZSL Dataset (GOZ)",
+                    "homepage": null,
                     "id": 168645753,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2022-10-19T23:39:25Z",
+                    "open_issues": 1,
                     "owner": "TristHas",
                     "repo": "GOZ",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "dataset",
+                      "imagenet",
+                      "zero-shot-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 }
@@ -289,12 +401,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for model presented on our paper accepted on European Conference on Computer Vision 2018.",
+                    "homepage": null,
                     "id": 141297250,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-03-07T00:52:41Z",
+                    "open_issues": 2,
                     "owner": "rafafelixphd",
                     "repo": "frwgan-eccv18",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 }
@@ -312,12 +429,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Zero-Shot Learning with GCN (CVPR 2018)",
+                    "homepage": null,
                     "id": 136105404,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-03-23T16:17:08Z",
+                    "open_issues": 2,
                     "owner": "JudyYe",
                     "repo": "zero-shot-gcn",
-                    "stars": 914
+                    "stars": 914,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 },
@@ -328,12 +450,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Zero-Shot Visual Recognition using Semantic-Preserving Adversarial Embedding Networks",
+                    "homepage": null,
                     "id": 135582132,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-01-10T14:08:37Z",
+                    "open_issues": 0,
                     "owner": "zjuchenlong",
                     "repo": "sp-aen.cvpr18",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 }
@@ -351,12 +478,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 151002623,
                     "language": "MATLAB",
+                    "license": null,
                     "last_commit": "2019-03-02T19:21:44Z",
+                    "open_issues": 0,
                     "owner": "pujols",
                     "repo": "Zero-shot-learning-journal",
-                    "stars": 45
+                    "stars": 45,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 },
@@ -367,12 +499,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TensorFlow implementation of the Attributes2Classname: A discriminative model for attribute-based unsupervised zero-shot learning.",
+                    "homepage": "http://openaccess.thecvf.com/content_ICCV_2017/papers/Demirel_Attributes2Classname_A_Discriminative_ICCV_2017_paper.pdf",
                     "id": 97750513,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2018-03-10T08:58:26Z",
+                    "open_issues": 0,
                     "owner": "berkandemirel",
                     "repo": "attributes2classname",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 }
@@ -390,12 +527,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tensorflow code for CVPR 2017 paper: Learning a Deep Embedding Model for Zero-Shot Learning",
+                    "homepage": null,
                     "id": 119437301,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-07-20T21:39:43Z",
+                    "open_issues": 2,
                     "owner": "lzrobots",
                     "repo": "DeepEmbeddingModel_ZSL",
-                    "stars": 185
+                    "stars": 185,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 },
@@ -406,12 +548,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Semantic Autoencoder for Zero-shot Learning (Spotlight), CVPR 2017",
+                    "homepage": "https://elyorcv.github.io/projects/sae",
                     "id": 84427681,
                     "language": "Matlab",
+                    "license": null,
                     "last_commit": "2018-11-04T20:19:02Z",
+                    "open_issues": 3,
                     "owner": "Elyorcv",
                     "repo": "SAE",
-                    "stars": 147
+                    "stars": 147,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 },
@@ -422,12 +569,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Semantically consistent regularizer for zero-shot learning",
+                    "homepage": null,
                     "id": 85975638,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2018-01-04T19:47:02Z",
+                    "open_issues": 3,
                     "owner": "pedro-morgado",
                     "repo": "score-zeroshot",
-                    "stars": 66
+                    "stars": 66,
+                    "topics": [
+                      "attributes",
+                      "caffe",
+                      "cvpr-2017",
+                      "deep-neural-networks",
+                      "semantics",
+                      "zero-shot"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 },
@@ -438,12 +597,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Semantically consistent regularizer for zero-shot learning",
+                    "homepage": null,
                     "id": 85975638,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2018-01-04T19:47:02Z",
+                    "open_issues": 3,
                     "owner": "pedro-morgado",
                     "repo": "score-zeroshot",
-                    "stars": 66
+                    "stars": 66,
+                    "topics": [
+                      "attributes",
+                      "caffe",
+                      "cvpr-2017",
+                      "deep-neural-networks",
+                      "semantics",
+                      "zero-shot"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 },
@@ -454,12 +625,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Gaze Embeddings for Zero-Shot Image Classification CVPR17",
+                    "homepage": null,
                     "id": 94629756,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2017-10-28T14:50:36Z",
+                    "open_issues": 2,
                     "owner": "Noura-kr",
                     "repo": "CVPR17",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 }
@@ -477,12 +653,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 60957758,
                     "language": null,
+                    "license": null,
                     "last_commit": "2018-10-22T03:12:17Z",
+                    "open_issues": 1,
                     "owner": "pujols",
                     "repo": "zero-shot-learning",
-                    "stars": 66
+                    "stars": 66,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 }
@@ -500,12 +681,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 30670343,
                     "language": "Matlab",
+                    "license": null,
                     "last_commit": "2016-08-25T00:54:12Z",
+                    "open_issues": 0,
                     "owner": "yanweifu",
                     "repo": "embedding_zero-shot-learning",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 }
@@ -523,12 +709,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Repository for our paper \"Zero-Shot Learning Through Cross-Modal Transfer\" from NIPS 2013.",
+                    "homepage": null,
                     "id": 6733809,
                     "language": "Matlab",
+                    "license": null,
                     "last_commit": "2014-04-25T21:50:31Z",
+                    "open_issues": 2,
                     "owner": "mganjoo",
                     "repo": "zslearning",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 }
@@ -546,12 +737,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 30670343,
                     "language": "Matlab",
+                    "license": null,
                     "last_commit": "2016-08-25T00:54:12Z",
+                    "open_issues": 0,
                     "owner": "yanweifu",
                     "repo": "embedding_zero-shot-learning",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 },
@@ -562,12 +758,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the ECCV 2014 paper \"Zero-Shot Learning via Visual Abstraction\" by Stanislaw Antol, Larry Zitnick, and Devi Parikh.",
+                    "homepage": null,
                     "id": 23746676,
                     "language": "Matlab",
+                    "license": null,
                     "last_commit": "2014-09-06T22:42:43Z",
+                    "open_issues": 0,
                     "owner": "StanislawAntol",
                     "repo": "zsl_via_visual_abstraction",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 }
@@ -585,12 +786,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Rethinking Knowledge Graph Propagation for Zero-Shot Learning, in CVPR 2019",
+                    "homepage": null,
                     "id": 135530747,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-06-22T08:53:59Z",
+                    "open_issues": 1,
                     "owner": "yinboc",
                     "repo": "DGP",
-                    "stars": 321
+                    "stars": 321,
+                    "topics": [
+                      "knowledge-graph",
+                      "machine-learning",
+                      "pytorch",
+                      "zero-shot-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 },
@@ -601,12 +812,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Extremely simple one-shot learning in Python",
+                    "homepage": null,
                     "id": 53860729,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2016-03-16T23:45:12Z",
+                    "open_issues": 2,
                     "owner": "MLWave",
                     "repo": "extremely-simple-one-shot-learning",
-                    "stars": 179
+                    "stars": 179,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 },
@@ -617,12 +833,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch codebase for zero-shot dialog generation SIGDIAL 2018, It is released by Tiancheng Zhao (Tony) from Dialog Research Center, LTI, CMU",
+                    "homepage": "https://www.cs.cmu.edu/~tianchez",
                     "id": 130564051,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-01-08T18:29:42Z",
+                    "open_issues": 1,
                     "owner": "snakeztc",
                     "repo": "NeuralDialog-ZSDG",
-                    "stars": 132
+                    "stars": 132,
+                    "topics": [
+                      "dialog",
+                      "domain-adaptation",
+                      "end-to-end-machine-learning",
+                      "neural-dialogue-agents",
+                      "sigdial-2018",
+                      "zero-shot-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
                 }
@@ -645,12 +873,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The download link for the dataset LAD.",
+                "homepage": null,
                 "id": 132123154,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-10-19T21:24:05Z",
+                "open_issues": 0,
                 "owner": "PatrickZH",
                 "repo": "A-Large-scale-Attribute-Dataset-for-Zero-shot-Learning",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:42.739Z"
             }
@@ -664,15 +897,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:57:42.739Z",
+    "last_updated": "2026-08-29T04:16:51.671Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of papers, code and resources pertaining to zero shot learning",
+      "homepage": null,
       "id": 152626520,
       "language": null,
+      "license": null,
       "last_commit": "2021-07-28T08:17:13Z",
+      "open_issues": 7,
       "owner": "sbharadwajj",
       "repo": "awesome-zero-shot-learning",
-      "stars": 935
+      "stars": 935,
+      "topics": [
+        "awesome-list",
+        "deep-learning",
+        "papers",
+        "zero-shot-learning"
+      ]
     },
     "original_repository_sha": "31a736b732392c4f34309a3d15bb3fb4c84e74d6",
     "enhanced_repository": "enhansome/enhansome-zero-shot-learning",
