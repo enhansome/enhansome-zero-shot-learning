@@ -44,7 +44,7 @@
                     "open_issues": 1,
                     "owner": "Hanzy1996",
                     "repo": "CE-GZSL",
-                    "stars": 107,
+                    "stars": 108,
                     "topics": [
                       "zero-shot-learning"
                     ]
@@ -897,7 +897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:19:09.106Z",
+    "last_updated": "2026-08-31T01:24:20.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers, code and resources pertaining to zero shot learning",
@@ -909,7 +909,7 @@
       "open_issues": 7,
       "owner": "sbharadwajj",
       "repo": "awesome-zero-shot-learning",
-      "stars": 935,
+      "stars": 936,
       "topics": [
         "awesome-list",
         "deep-learning",
