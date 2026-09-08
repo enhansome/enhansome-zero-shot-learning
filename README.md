@@ -1,12 +1,12 @@
 # Awesome Zero-Shot Learning with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,686 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,996 | 🐛 106 | 📅 2026-09-02
 
 A curated list of resources including papers, comparitive results on standard datasets and relevant links pertaining to zero-shot learning.
 
 ## Contributing
 
-Contributions are welcome. Please see the [issue](https://github.com/chichilicious/awesome-zero-shot-learning/issues/2) ⭐ 936 | 🐛 7 | 📅 2021-07-28 which lists the things which are planned to be included in this repo. If you wish to contribute within these boundaries, feel free to send a PR. If you have suggestions for new sections to be included, please raise an issue and discuss before sending a PR.
+Contributions are welcome. Please see the [issue](https://github.com/chichilicious/awesome-zero-shot-learning/issues/2) ⭐ 937 | 🐛 7 | 📅 2021-07-28 which lists the things which are planned to be included in this repo. If you wish to contribute within these boundaries, feel free to send a PR. If you have suggestions for new sections to be included, please raise an issue and discuss before sending a PR.
 
 ## Table of Contents
 
@@ -227,4 +227,4 @@ This can be used as an introductory code to obtain the basic understanding of Ze
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
