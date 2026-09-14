@@ -1,6 +1,6 @@
 # Awesome Zero-Shot Learning with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,470 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,778 | 🐛 106 | 📅 2026-09-02
 
 A curated list of resources including papers, comparitive results on standard datasets and relevant links pertaining to zero-shot learning.
 
@@ -89,7 +89,7 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 
 #### CVPR 2018
 
-* **GCN:**  Xiaolong Wang, Yufei Ye, Abhinav Gupta. "Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs." CVPR (2018). \[[pdf](https://arxiv.org/pdf/1803.08035.pdf)] \[[code](https://github.com/JudyYe/zero-shot-gcn) ⭐ 914 | 🐛 2 | 🌐 Python | 📅 2019-03-23]
+* **GCN:**  Xiaolong Wang, Yufei Ye, Abhinav Gupta. "Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs." CVPR (2018). \[[pdf](https://arxiv.org/pdf/1803.08035.pdf)] \[[code](https://github.com/JudyYe/zero-shot-gcn) ⭐ 913 | 🐛 2 | 🌐 Python | 📅 2019-03-23]
 * **SP-AEN:** Long Chen, Hanwang Zhang, Jun Xiao, Wei Liu, Shih-Fu Chang. "Zero-Shot Visual Recognition Using Semantics-Preserving Adversarial Embedding Networks." CVPR (2018). \[[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Zero-Shot_Visual_Recognition_CVPR_2018_paper.pdf)] \[[code](https://github.com/zjuchenlong/sp-aen.cvpr18) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2019-01-10]
 * **PSR:** Yashas Annadani, Soma Biswas. "Preserving Semantic Relations for Zero-Shot Learning." CVPR (2018). \[[pdf](https://arxiv.org/pdf/1803.03049.pdf)]
 * **GAN-NT:** Yizhe Zhu, Mohamed Elhoseiny, Bingchen Liu, Xi Peng, Ahmed Elgammal. "A Generative Adversarial Approach for Zero-Shot Learning From Noisy Texts." CVPR (2018). \[[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhu_A_Generative_Adversarial_CVPR_2018_paper.pdf)]
@@ -227,4 +227,4 @@ This can be used as an introductory code to obtain the basic understanding of Ze
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._

@@ -438,7 +438,7 @@
                     "open_issues": 2,
                     "owner": "JudyYe",
                     "repo": "zero-shot-gcn",
-                    "stars": 914,
+                    "stars": 913,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
@@ -897,7 +897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T01:09:07.380Z",
+    "last_updated": "2026-09-14T01:13:45.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers, code and resources pertaining to zero shot learning",
