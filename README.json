@@ -95,7 +95,7 @@
                     "open_issues": 1,
                     "owner": "akshitac8",
                     "repo": "tfvaegan",
-                    "stars": 131,
+                    "stars": 130,
                     "topics": [
                       "action-recognition",
                       "clswgan",
@@ -897,7 +897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T01:13:34.863Z",
+    "last_updated": "2026-09-22T01:38:26.013Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers, code and resources pertaining to zero shot learning",

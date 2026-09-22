@@ -1,6 +1,6 @@
 # Awesome Zero-Shot Learning with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,267 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,665 | 🐛 106 | 📅 2026-09-02
 
 A curated list of resources including papers, comparitive results on standard datasets and relevant links pertaining to zero-shot learning.
 
@@ -32,7 +32,7 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 
 #### ECCV 2020
 
-* **TF-vaegan**: Sanath Narayan<sup>\*</sup> , Akshita Gupta<sup>\*</sup> , Fahad Shahbaz Khan, Cees G. M. Snoek, Ling Shao. "Latent Embedding Feedback and Discriminative Features for Zero-Shot Classification." ECCV (2020). [\[pdf\]](https://arxiv.org/pdf/2003.07833.pdf) [\[code\]](https://github.com/akshitac8/tfvaegan) ⭐ 131 | 🐛 1 | 🌐 Python | 📅 2021-08-18.
+* **TF-vaegan**: Sanath Narayan<sup>\*</sup> , Akshita Gupta<sup>\*</sup> , Fahad Shahbaz Khan, Cees G. M. Snoek, Ling Shao. "Latent Embedding Feedback and Discriminative Features for Zero-Shot Classification." ECCV (2020). [\[pdf\]](https://arxiv.org/pdf/2003.07833.pdf) [\[code\]](https://github.com/akshitac8/tfvaegan) ⭐ 130 | 🐛 1 | 🌐 Python | 📅 2021-08-18.
 * **LsrGAN**: Maunil R Vyas, Hemanth Venkateswara, and Sethuraman Panchanathan. "Leveraging Seen and Unseen Semantic Relationships for Generative Zero-Shot Learning." ECCV (2020). [\[pdf\]](https://arxiv.org/pdf/2007.09549.pdf).
 * Xingyu Chen, Xuguang Lan, Fuchun Sun, and Nanning Zheng. "A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning." ECCV (2020). [\[pdf\]](https://arxiv.org/pdf/2008.04872.pdf).
 * "Region Graph Embedding Network for Zero-Shot Learning. " ECCV SPOTLIGHT(2020). [\[pdf\]]().
@@ -227,4 +227,4 @@ This can be used as an introductory code to obtain the basic understanding of Ze
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
