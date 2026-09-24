@@ -236,7 +236,7 @@
                     "open_issues": 1,
                     "owner": "yinboc",
                     "repo": "DGP",
-                    "stars": 321,
+                    "stars": 322,
                     "topics": [
                       "knowledge-graph",
                       "machine-learning",
@@ -795,7 +795,7 @@
                     "open_issues": 1,
                     "owner": "yinboc",
                     "repo": "DGP",
-                    "stars": 321,
+                    "stars": 322,
                     "topics": [
                       "knowledge-graph",
                       "machine-learning",
@@ -897,7 +897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T01:33:18.890Z",
+    "last_updated": "2026-09-24T01:29:12.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers, code and resources pertaining to zero shot learning",
