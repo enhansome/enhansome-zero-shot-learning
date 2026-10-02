@@ -236,7 +236,7 @@
                     "open_issues": 1,
                     "owner": "yinboc",
                     "repo": "DGP",
-                    "stars": 321,
+                    "stars": 322,
                     "topics": [
                       "knowledge-graph",
                       "machine-learning",
@@ -438,7 +438,7 @@
                     "open_issues": 2,
                     "owner": "JudyYe",
                     "repo": "zero-shot-gcn",
-                    "stars": 913,
+                    "stars": 914,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
@@ -795,7 +795,7 @@
                     "open_issues": 1,
                     "owner": "yinboc",
                     "repo": "DGP",
-                    "stars": 321,
+                    "stars": 322,
                     "topics": [
                       "knowledge-graph",
                       "machine-learning",
@@ -897,7 +897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T02:13:00.726Z",
+    "last_updated": "2026-10-02T02:19:19.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers, code and resources pertaining to zero shot learning",
