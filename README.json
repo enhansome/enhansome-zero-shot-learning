@@ -10,7 +10,7 @@
                 {
                   "node_type": "item",
                   "title": "\"Learning Graph Embeddings for Compositional Zero-shot Learning\" [pdf]",
-                  "description": "[code]",
+                  "description": "ExplainableML/czsl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -31,7 +31,7 @@
                 {
                   "node_type": "item",
                   "title": "Zongyan Han, Zhenyong Fu, Shuo Chen and Jian Yang \"Contrastive Embedding for Generalized Zero-Shot Learning\" [pdf]",
-                  "description": "[code]",
+                  "description": "Hanzy1996/CE-GZSL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -54,7 +54,7 @@
                 {
                   "node_type": "item",
                   "title": "Yang Liu, Lei Zhou, Xiao Bai, Yifei Huang, Lin Gu, Jun Zhou, Tatsuya Harada. \"Goal-Oriented Gaze Estimation for Zero-Shot Learning\" [pdf]",
-                  "description": "[code]",
+                  "description": "osierboy/GEM-ZSL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -153,7 +153,7 @@
                 {
                   "node_type": "item",
                   "title": "LFGAA+SA: Yang Liu, Jishun Guo, Deng Cai, Xiaofei He. \"Attribute Attention for Semantic Disambiguation in Zero-Shot Learning.\" ICCV (2019). [pdf]",
-                  "description": "[code]",
+                  "description": "ZJULearning/AttentionZSL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -174,7 +174,7 @@
                 {
                   "node_type": "item",
                   "title": "CIZSL: Mohamed Elhoseiny, Mohamed Elfeki. \"Creativity Inspired Zero-Shot Learning.\" ICCV (2019). [pdf]",
-                  "description": "[code]",
+                  "description": "mhelhoseiny/CIZSL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -195,7 +195,7 @@
                 {
                   "node_type": "item",
                   "title": "Yizhe Zhu1, Jianwen Xie, Bingchen Liu, Ahmed Elgammal. \"Learning Feature-to-Feature Translator by Alternating Back-Propagation for Generative Zero-Shot Learning.\" ICCV (2019). [pdf]",
-                  "description": "[code]",
+                  "description": "EthanZhu90/ZSL_ABP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -223,7 +223,7 @@
                 {
                   "node_type": "item",
                   "title": "DGP: Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing. \"Rethinking Knowledge Graph Propagation for Zero-Shot Learning.\" CVPR (2019). [pdf]",
-                  "description": "[code]",
+                  "description": "yinboc/DGP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -249,7 +249,7 @@
                 {
                   "node_type": "item",
                   "title": "CADA-VAE: Edgar Schönfeld, Sayna Ebrahimi, Samarth Sinha, Trevor Darrell, Zeynep Akata. \"Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders.\" CVPR (2019). [pdf]",
-                  "description": "[code]",
+                  "description": "edgarschnfld/CADA-VAE-PyTorch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -276,7 +276,7 @@
                 {
                   "node_type": "item",
                   "title": "LisGAN: Jingjing Li, Mengmeng Jin, Ke Lu, Zhengming Ding, Lei Zhu, Zi Huang. \"Leveraging the Invariant Side of Generative Zero-Shot Learning.\" CVPR (2019). [pdf]",
-                  "description": "[code]",
+                  "description": "lijin118/LisGAN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -297,7 +297,7 @@
                 {
                   "node_type": "item",
                   "title": "AREN: Guo-Sen Xie, Li Liu, Xiaobo Jin, Fan Zhu, Zheng Zhang, Jie Qin, Yazhou Yao, Ling Shao. \"Attentive Region Embedding Network for Zero-shot Learning.\" CVPR (2019). [pdf]",
-                  "description": "[code]",
+                  "description": "gsx0/Attentive-Region-Embedding-Network-for-Zero-shot-Learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -318,7 +318,7 @@
                 {
                   "node_type": "item",
                   "title": "GDAN: He Huang, Changhu Wang, Philip S. Yu, Chang-Dong Wang. \"Generative Dual Adversarial Network for Generalized Zero-shot Learning.\" CVPR (2019). [pdf]",
-                  "description": "[code]",
+                  "description": "stevehuanghe/GDAN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -339,7 +339,7 @@
                 {
                   "node_type": "item",
                   "title": "DeML: Binghui Chen, Weihong Deng. \"Hybrid-Attention based Decoupled Metric Learning for Zero-Shot Image Retrieval.\" CVPR (2019). [pdf]",
-                  "description": "[code]",
+                  "description": "chenbinghui1/Hybrid-Attention-based-Decoupled-Metric-Learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -365,7 +365,7 @@
                 {
                   "node_type": "item",
                   "title": "Tristan Hascoet, Yasuo Ariki, Tetsuya Takiguchi. \"On Zero-Shot Learning of generic objects.\" CVPR (2019). [pdf]",
-                  "description": "[code]",
+                  "description": "TristHas/GOZ",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -397,7 +397,7 @@
                 {
                   "node_type": "item",
                   "title": "MC-ZSL: Rafael Felix, Vijay Kumar B. G., Ian Reid, Gustavo Carneiro. \"Multi-modal Cycle-consistent Generalized Zero-Shot Learning.\" ECCV (2018). [pdf",
-                  "description": "] [code]",
+                  "description": "rafafelixphd/frwgan-eccv18",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -425,7 +425,7 @@
                 {
                   "node_type": "item",
                   "title": "GCN: Xiaolong Wang, Yufei Ye, Abhinav Gupta. \"Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs.\" CVPR (2018). [pdf",
-                  "description": "] [code]",
+                  "description": "JudyYe/zero-shot-gcn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -446,7 +446,7 @@
                 {
                   "node_type": "item",
                   "title": "SP-AEN: Long Chen, Hanwang Zhang, Jun Xiao, Wei Liu, Shih-Fu Chang. \"Zero-Shot Visual Recognition Using Semantics-Preserving Adversarial Embedding Networks.\" CVPR (2018). [pdf",
-                  "description": "] [code]",
+                  "description": "zjuchenlong/sp-aen.cvpr18",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -474,7 +474,7 @@
                 {
                   "node_type": "item",
                   "title": "PVE: Soravit Changpinyo, Wei-Lun Chao, Fei Sha. \"Predicting Visual Exemplars of Unseen Classes for Zero-Shot Learning.\" ICCV (2017). [pdf",
-                  "description": "][code]",
+                  "description": "pujols/Zero-shot-learning-journal",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -495,7 +495,7 @@
                 {
                   "node_type": "item",
                   "title": "A2C: Berkan Demirel, Ramazan Gokberk Cinbis, Nazli Ikizler-Cinbis. \"Attributes2Classname: A Discriminative Model for Attribute-Based Unsupervised Zero-Shot Learning.\" ICCV (2017). [pdf",
-                  "description": "] [code]",
+                  "description": "berkandemirel/attributes2classname",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -523,7 +523,7 @@
                 {
                   "node_type": "item",
                   "title": "DEM: Li Zhang, Tao Xiang, Shaogang Gong. \"Learning a Deep Embedding Model for Zero-Shot Learning.\" CVPR (2017). [pdf",
-                  "description": "] [code]",
+                  "description": "lzrobots/DeepEmbeddingModel_ZSL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -544,7 +544,7 @@
                 {
                   "node_type": "item",
                   "title": "SAE: Elyor Kodirov, Tao Xiang, Shaogang Gong. \"Semantic Autoencoder for Zero-Shot Learning.\" CVPR (2017). [pdf]",
-                  "description": "[code]",
+                  "description": "Elyorcv/SAE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -565,7 +565,7 @@
                 {
                   "node_type": "item",
                   "title": "Deep-SCoRe: Pedro Morgado, Nuno Vasconcelos.\"Semantically Consistent Regularization for Zero-Shot Recognition.\" CVPR (2017). [pdf",
-                  "description": "] [code]",
+                  "description": "pedro-morgado/score-zeroshot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -593,7 +593,7 @@
                 {
                   "node_type": "item",
                   "title": "GUB: Yongqin Xian, Bernt Schiele, Zeynep Akata. \"Zero-Shot learning - The Good, the Bad and the Ugly.\" CVPR (2017). [pdf]",
-                  "description": "[code]",
+                  "description": "pedro-morgado/score-zeroshot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -621,7 +621,7 @@
                 {
                   "node_type": "item",
                   "title": "Nour Karessli, Zeynep Akata, Bernt Schiele, Andreas Bulling. \"Gaze Embeddings for Zero-Shot Image Classification.\" CVPR (2017). [pdf]",
-                  "description": "[code]",
+                  "description": "Noura-kr/CVPR17",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -649,7 +649,7 @@
                 {
                   "node_type": "item",
                   "title": "SYNC: Soravit Changpinyo, Wei-Lun Chao, Boqing Gong, Fei Sha. \"Synthesized Classifiers for Zero-Shot Learning.\" CVPR (2016). [pdf",
-                  "description": "][code]",
+                  "description": "pujols/zero-shot-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -677,7 +677,7 @@
                 {
                   "node_type": "item",
                   "title": "TMV: Yanwei Fu, Timothy M. Hospedales, Tao Xiang, Shaogang Gong. \"Transductive Multi-view Zero-Shot Learning.\" TPAMI (2015) [pdf]",
-                  "description": "[code]",
+                  "description": "yanweifu/embedding_zero-shot-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -705,7 +705,7 @@
                 {
                   "node_type": "item",
                   "title": "CMT: Richard Socher, Milind Ganjoo, Christopher D. Manning, Andrew Y. Ng. \"Zero-Shot Learning Through Cross-Modal Transfer\" NIPS (2013) [pdf]",
-                  "description": "[code]",
+                  "description": "mganjoo/zslearning",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -733,7 +733,7 @@
                 {
                   "node_type": "item",
                   "title": "TMV-BLP: Yanwei Fu, Timothy M. Hospedales, Tao Xiang, Zhenyong Fu, Shaogang Gong. \"Transductive Multi-view Embedding for Zero-Shot Recognition and Annotation\" ECCV (2014).[pdf]",
-                  "description": "[code]",
+                  "description": "yanweifu/embedding_zero-shot-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -782,7 +782,7 @@
                 {
                   "node_type": "item",
                   "title": "Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing \"Rethinking Knowledge Graph Propagation for Zero-Shot Learning\" arXiv (2018). [pdf]",
-                  "description": "[code]",
+                  "description": "yinboc/DGP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -808,7 +808,7 @@
                 {
                   "node_type": "item",
                   "title": "EsZSL: Bernardino Romera-Paredes, Philip H. S. Torr. \"An embarrassingly simple approach to zero-shot learning.\" ICML (2015). [pdf]",
-                  "description": "[Code]",
+                  "description": "MLWave/extremely-simple-one-shot-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -829,7 +829,7 @@
                 {
                   "node_type": "item",
                   "title": "ZSGD: Tiancheng Zhao, Maxine Eskenazi. \"Zero-Shot Dialog Generation with Cross-Domain Latent Actions\" SIGDIAL (2018). [pdf]",
-                  "description": "[code]",
+                  "description": "snakeztc/NeuralDialog-ZSDG",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -869,7 +869,7 @@
             {
               "node_type": "item",
               "title": "LAD: Large-scale Attribute Dataset. Categories:230. [link]",
-              "description": null,
+              "description": "PatrickZH/A-Large-scale-Attribute-Dataset-for-Zero-shot-Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -897,7 +897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:05:58.840Z",
+    "last_updated": "2026-10-03T05:15:08.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers, code and resources pertaining to zero shot learning",
