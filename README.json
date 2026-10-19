@@ -438,7 +438,7 @@
                     "open_issues": 2,
                     "owner": "JudyYe",
                     "repo": "zero-shot-gcn",
-                    "stars": 914,
+                    "stars": 915,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:42.739Z"
@@ -842,7 +842,7 @@
                     "open_issues": 1,
                     "owner": "snakeztc",
                     "repo": "NeuralDialog-ZSDG",
-                    "stars": 132,
+                    "stars": 131,
                     "topics": [
                       "dialog",
                       "domain-adaptation",
@@ -897,7 +897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T01:12:01.567Z",
+    "last_updated": "2026-10-19T01:23:04.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers, code and resources pertaining to zero shot learning",

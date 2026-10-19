@@ -1,6 +1,6 @@
 # Awesome Zero-Shot Learning with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,513 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,991 | 🐛 105 | 📅 2026-09-02
 
 A curated list of resources including papers, comparitive results on standard datasets and relevant links pertaining to zero-shot learning.
 
@@ -89,7 +89,7 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 
 #### CVPR 2018
 
-* **GCN:**  Xiaolong Wang, Yufei Ye, Abhinav Gupta. "Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs." CVPR (2018). \[[pdf](https://arxiv.org/pdf/1803.08035.pdf)] \[[code](https://github.com/JudyYe/zero-shot-gcn) ⭐ 914 | 🐛 2 | 🌐 Python | 📅 2019-03-23]
+* **GCN:**  Xiaolong Wang, Yufei Ye, Abhinav Gupta. "Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs." CVPR (2018). \[[pdf](https://arxiv.org/pdf/1803.08035.pdf)] \[[code](https://github.com/JudyYe/zero-shot-gcn) ⭐ 915 | 🐛 2 | 🌐 Python | 📅 2019-03-23]
 * **SP-AEN:** Long Chen, Hanwang Zhang, Jun Xiao, Wei Liu, Shih-Fu Chang. "Zero-Shot Visual Recognition Using Semantics-Preserving Adversarial Embedding Networks." CVPR (2018). \[[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Zero-Shot_Visual_Recognition_CVPR_2018_paper.pdf)] \[[code](https://github.com/zjuchenlong/sp-aen.cvpr18) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2019-01-10]
 * **PSR:** Yashas Annadani, Soma Biswas. "Preserving Semantic Relations for Zero-Shot Learning." CVPR (2018). \[[pdf](https://arxiv.org/pdf/1803.03049.pdf)]
 * **GAN-NT:** Yizhe Zhu, Mohamed Elhoseiny, Bingchen Liu, Xi Peng, Ahmed Elgammal. "A Generative Adversarial Approach for Zero-Shot Learning From Noisy Texts." CVPR (2018). \[[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhu_A_Generative_Adversarial_CVPR_2018_paper.pdf)]
@@ -193,7 +193,7 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 
 * Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing "Rethinking Knowledge Graph Propagation for Zero-Shot Learning" arXiv (2018). [\[pdf\]](https://arxiv.org/pdf/1805.11724v2.pdf) [\[code\]](https://github.com/cyvius96/adgpm) ⭐ 322 | 🐛 1 | 🌐 Python | 📅 2019-06-22
 * **EsZSL:** Bernardino Romera-Paredes, Philip H. S. Torr. "An embarrassingly simple approach to zero-shot learning." ICML (2015). [\[pdf\]](http://proceedings.mlr.press/v37/romera-paredes15.pdf) [\[Code\]](https://github.com/MLWave/extremely-simple-one-shot-learning) ⭐ 179 | 🐛 2 | 🌐 Python | 📅 2016-03-16
-* **ZSGD:** Tiancheng Zhao, Maxine Eskenazi. "Zero-Shot Dialog Generation with Cross-Domain Latent Actions" SIGDIAL (2018). [\[pdf\]](https://arxiv.org/abs/1805.04803v1) [\[code\]](https://github.com/snakeztc/NeuralDialog-ZSDG) ⭐ 132 | 🐛 1 | 🌐 Python | 📅 2019-01-08
+* **ZSGD:** Tiancheng Zhao, Maxine Eskenazi. "Zero-Shot Dialog Generation with Cross-Domain Latent Actions" SIGDIAL (2018). [\[pdf\]](https://arxiv.org/abs/1805.04803v1) [\[code\]](https://github.com/snakeztc/NeuralDialog-ZSDG) ⭐ 131 | 🐛 1 | 🌐 Python | 📅 2019-01-08
 * **AEZSL:** "Zero-Shot Learning via Category-Specific Visual-Semantic Mapping and Label Refinement" IEEE SPS (2018). [\[pdf\]](https://ieeexplore.ieee.org/document/8476580)
 * Yanwei Fu, Tao Xiang, Yu-Gang Jiang, Xiangyang Xue, Leonid Sigal, Shaogang Gong "Recent Advances in Zero-shot Recognition".  IEEE Signal Processing Magazine. [\[pdf\]](https://arxiv.org/pdf/1710.04837.pdf)
 * **Survey:** Wei Wang, Vincent W. Zheng, Han Yu, Chunyan Miao. "A Survey of Zero-Shot Learning: Settings, Methods, and Applications". TIST (2019).  [\[pdf\]](https://dl.acm.org/citation.cfm?doid=3306498.3293318)
@@ -227,4 +227,4 @@ This can be used as an introductory code to obtain the basic understanding of Ze
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
