@@ -842,7 +842,7 @@
                     "open_issues": 1,
                     "owner": "snakeztc",
                     "repo": "NeuralDialog-ZSDG",
-                    "stars": 131,
+                    "stars": 132,
                     "topics": [
                       "dialog",
                       "domain-adaptation",
@@ -897,7 +897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T01:23:04.172Z",
+    "last_updated": "2026-10-20T01:54:46.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers, code and resources pertaining to zero shot learning",
