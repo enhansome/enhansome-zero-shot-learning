@@ -262,7 +262,7 @@
                     "open_issues": 8,
                     "owner": "edgarschnfld",
                     "repo": "CADA-VAE-PyTorch",
-                    "stars": 295,
+                    "stars": 296,
                     "topics": [
                       "few-shot-learning",
                       "generalized-zero-shot-learning",
@@ -897,7 +897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:20:12.027Z",
+    "last_updated": "2026-11-02T02:36:27.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers, code and resources pertaining to zero shot learning",

@@ -1,6 +1,6 @@
 # Awesome Zero-Shot Learning with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 528,064 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 528,779 | 🐛 105 | 📅 2026-09-02
 
 A curated list of resources including papers, comparitive results on standard datasets and relevant links pertaining to zero-shot learning.
 
@@ -60,7 +60,7 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 #### CVPR 2019
 
 * **DGP:** Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing. "Rethinking Knowledge Graph Propagation for Zero-Shot Learning." CVPR (2019). [\[pdf\]](https://arxiv.org/pdf/1805.11724.pdf) [\[code\]](https://github.com/cyvius96/DGP) ⭐ 322 | 🐛 1 | 🌐 Python | 📅 2019-06-22
-* **CADA-VAE:** Edgar Schönfeld, Sayna Ebrahimi, Samarth Sinha, Trevor Darrell, Zeynep Akata. "Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders." CVPR (2019). [\[pdf\]](https://arxiv.org/abs/1812.01784) [\[code\]](https://github.com/edgarschnfld/CADA-VAE-PyTorch) ⭐ 295 | 🐛 8 | 🌐 Python | 📅 2023-07-06
+* **CADA-VAE:** Edgar Schönfeld, Sayna Ebrahimi, Samarth Sinha, Trevor Darrell, Zeynep Akata. "Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders." CVPR (2019). [\[pdf\]](https://arxiv.org/abs/1812.01784) [\[code\]](https://github.com/edgarschnfld/CADA-VAE-PyTorch) ⭐ 296 | 🐛 8 | 🌐 Python | 📅 2023-07-06
 * **LisGAN:** Jingjing Li, Mengmeng Jin, Ke Lu, Zhengming Ding, Lei Zhu, Zi Huang. "Leveraging the Invariant Side of Generative Zero-Shot Learning." CVPR (2019). [\[pdf\]](https://arxiv.org/pdf/1904.04092.pdf) [\[code\]](https://github.com/lijin118/LisGAN) ⭐ 75 | 🐛 7 | 🌐 Python | 📅 2019-09-22
 * **AREN:** Guo-Sen Xie, Li Liu, Xiaobo Jin, Fan Zhu, Zheng Zhang, Jie Qin, Yazhou Yao, Ling Shao. "Attentive Region Embedding Network for Zero-shot Learning." CVPR (2019). [\[pdf\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Attentive_Region_Embedding_Network_for_Zero-Shot_Learning_CVPR_2019_paper.pdf) [\[code\]](https://github.com/gsx0/Attentive-Region-Embedding-Network-for-Zero-shot-Learning) ⭐ 58 | 🐛 5 | 🌐 Python | 📅 2019-07-04
 * **GDAN:** He Huang, Changhu Wang, Philip S. Yu, Chang-Dong Wang. "Generative Dual Adversarial Network for Generalized Zero-shot Learning." CVPR (2019). [\[pdf\]](https://arxiv.org/abs/1811.04857) [\[code\]](https://github.com/stevehuanghe/GDAN) ⭐ 54 | 🐛 4 | 🌐 Python | 📅 2019-10-08
@@ -227,4 +227,4 @@ This can be used as an introductory code to obtain the basic understanding of Ze
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
