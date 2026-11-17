@@ -897,7 +897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T02:51:42.215Z",
+    "last_updated": "2026-11-17T05:07:10.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers, code and resources pertaining to zero shot learning",
@@ -909,7 +909,7 @@
       "open_issues": 8,
       "owner": "sbharadwajj",
       "repo": "awesome-zero-shot-learning",
-      "stars": 937,
+      "stars": 938,
       "topics": [
         "awesome-list",
         "deep-learning",
